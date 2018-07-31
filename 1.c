@@ -1,4 +1,4 @@
-//First progtam at github
+//First C program at GitHub
 
 #include<stdio.h>
 void main()
